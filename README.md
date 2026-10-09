@@ -1,74 +1,195 @@
-# ProblemSolvingStats
-<a name="top"></a> <sub><sup>[Top](#top)</sup></sub>
+<a name="top"></a>
 
 <div align="center">
 
 <!-- AUTO_GENERATED_SECTION_START: BANNER -->
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=77DDBB&text=Problem%20Solving%20Statistics&fontColor=FFFFFF&fontSize=38)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B132B,50:1C2541,100:0F766E&text=Problem%20Solving%20Statistics&fontColor=E6FFFA&fontSize=38&fontAlignY=40&desc=CONSISTENCY%20%7C%20LOGIC%20%7C%20GROWTH&descSize=15&descColor=77DDBB&descAlignY=62&animation=fadeIn" width="100%" alt="Problem Solving Statistics Banner"/>
 <!-- AUTO_GENERATED_SECTION_END: BANNER -->
 
+<br/>
+
 <!-- DYNAMIC_BADGES_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-October%2009%202026-77DDBB?style=for-the-badge)
-![Total Problems](https://img.shields.io/badge/Total%20Solved-534-77DDBB?style=for-the-badge)
-![Platforms](https://img.shields.io/badge/Platforms-08-77DDBB?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-October%2009,%202026-77DDBB?style=for-the-badge&labelColor=161B22)
+![Total Problems](https://img.shields.io/badge/Total%20Solved-534-77DDBB?style=for-the-badge&labelColor=161B22)
+![Platforms](https://img.shields.io/badge/Platforms-08-77DDBB?style=for-the-badge&labelColor=161B22)
 <!-- DYNAMIC_BADGES_END -->
 
 <!-- UPDATE_METADATA_START -->
-<p align="center"><sub><strong>Updated:</strong> 09 October 2026 at 03:49:42 AM • Automatic</sub></p>
+<p align="center">
+  <sub><strong>Last Synchronized:</strong> 09 October 2026 at 03:49:42 AM • Automatic</sub>
+</p>
 <!-- UPDATE_METADATA_END -->
 
-<!-- AUTO_GENERATED_SECTION_START: STATS_TABLE -->
-| 🎯 Platform | 👤 Profile | ✅ Solved | 📈 Progress | 📅 Updated On | 🔄 Mode |
-|:-------------|:------------:|:-----------:|:-------------|---------------:|:----------:|
-| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16"/> **Codeforces** | [RAIHAN_AHAD](https://codeforces.com/profile/RAIHAN_AHAD) | **185** | ![Progress](https://img.shields.io/badge/Progress-78.7%25-AA0000?style=flat-square) | October 09, 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16"/> **VJudge** | [RAIHAN_AHAD](https://vjudge.net/user/RAIHAN_AHAD) | **68** | ![Progress](https://img.shields.io/badge/Progress-12.3%25-FF3333?style=flat-square) | September 29, 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=www.codechef.com&sz=16" width="16" height="16"/> **CodeChef** | [RAIHAN_AHAD](https://www.codechef.com/users/raihan_ahad) | **187** | ![Progress](https://img.shields.io/badge/Progress-3.6%25-FF7777?style=flat-square) | September 7, 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=16" width="16" height="16"/> **AtCoder** | [RAIHAN_AHAD](https://atcoder.jp/users/RAIHAN_AHAD) | **68** | ![Progress](https://img.shields.io/badge/Progress-2.1%25-FFBB55?style=flat-square) | September 19, 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=cses.fi&sz=16" width="16" height="16"/> **CSES** | [RAIHAN_AHAD](https://cses.fi/user/458666) | **10** | ![Progress](https://img.shields.io/badge/Progress-0.9%25-FFCC88?style=flat-square) | August 26, 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=www.hackerrank.com&sz=16" width="16" height="16"/> **HackerRank** | [RAIHAN AHAD](https://www.hackerrank.com/profile/raihanahad) | **0** | ![Progress](https://img.shields.io/badge/Progress-0.5%25-FF88FF?style=flat-square) | 03 March, 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16"/> **LeetCode** | [RAIHAN_AHAD](https://leetcode.com/u/RAIHAN_AHAD/) | **1** | ![Progress](https://img.shields.io/badge/Progress-0.5%25-90C3DD?style=flat-square) | 09 October 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=www.spoj.com&sz=16" width="16" height="16"/> **beecrowd** | [raihanahad](https://judge.beecrowd.com/en/profile/1249238/) | **15** | ![Progress](https://img.shields.io/badge/Progress-0.1%25-77DDBB?style=flat-square) | July 04, 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
-| 🎖️ **TOTAL** | | **534** | **100%** | October 09, 2026 | |
+<br/>
+
+<p>
+  <strong>Tracking my competitive programming journey, one problem at a time.</strong>
+</p>
+
+</div>
 
 ---
+
+## 📊 Overview
+
+<div align="center">
+
+<p>
+  <sub>A snapshot of my competitive programming journey</sub>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/TOTAL%20SOLVED-77DDBB?style=for-the-badge&labelColor=161B22" alt="Total Solved"/>
+      <br/><br/>
+      <strong>534</strong>
+      <br/>
+      <sub>Recorded Solves</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/PLATFORMS-77DDBB?style=for-the-badge&labelColor=161B22" alt="Platforms"/>
+      <br/><br/>
+      <strong>08</strong>
+      <br/>
+      <sub>Online Judges</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/LEADING%20PLATFORM-77DDBB?style=for-the-badge&labelColor=161B22" alt="Leading Platform"/>
+      <br/><br/>
+      <strong>CodeChef</strong>
+      <br/>
+      <sub>187 Recorded Solves</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/PRIMARY%20FOCUS-77DDBB?style=for-the-badge&labelColor=161B22" alt="Primary Focus"/>
+      <br/><br/>
+      <strong>CP &amp; DSA</strong>
+      <br/>
+      <sub>Practice &amp; Problem Solving</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📈 Platform Statistics
+
+<!-- AUTO_GENERATED_SECTION_START: STATS_TABLE -->
+
+| Platform | Profile | Solved | Share of Total | Last Updated | Tracking |
+|:---|:---:|---:|---:|:---:|:---:|
+| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16" alt=""/> **Codeforces** | [RAIHAN_AHAD ↗](https://codeforces.com/profile/RAIHAN_AHAD) | **185** | ![Share](https://img.shields.io/badge/34.64%25-AA0000?style=flat-square) | Oct 09, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16" alt=""/> **VJudge** | [RAIHAN_AHAD ↗](https://vjudge.net/user/RAIHAN_AHAD) | **68** | ![Share](https://img.shields.io/badge/12.73%25-FF3333?style=flat-square) | Sep 29, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=codechef.com&sz=16" width="16" height="16" alt=""/> **CodeChef** | [raihan_ahad ↗](https://www.codechef.com/users/raihan_ahad) | **187** | ![Share](https://img.shields.io/badge/35.02%25-FF7777?style=flat-square) | Sep 07, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=16" width="16" height="16" alt=""/> **AtCoder** | [RAIHAN_AHAD ↗](https://atcoder.jp/users/RAIHAN_AHAD) | **68** | ![Share](https://img.shields.io/badge/12.73%25-FFBB55?style=flat-square) | Sep 19, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=cses.fi&sz=16" width="16" height="16" alt=""/> **CSES** | [RAIHAN AHAD ↗](https://cses.fi/user/458666) | **10** | ![Share](https://img.shields.io/badge/1.87%25-FFCC88?style=flat-square) | Aug 26, 2026 | ![Manual](https://img.shields.io/badge/MANUAL-E65100?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=hackerrank.com&sz=16" width="16" height="16" alt=""/> **HackerRank** | [raihanahad ↗](https://www.hackerrank.com/profile/raihanahad) | **0** | ![Share](https://img.shields.io/badge/0.00%25-555555?style=flat-square) | Mar 03, 2026 | ![Manual](https://img.shields.io/badge/MANUAL-E65100?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16" alt=""/> **LeetCode** | [RAIHAN_AHAD ↗](https://leetcode.com/u/RAIHAN_AHAD/) | **1** | ![Share](https://img.shields.io/badge/0.19%25-90C3DD?style=flat-square) | Oct 09, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=judge.beecrowd.com&sz=16" width="16" height="16" alt=""/> **beecrowd** | [raihanahad ↗](https://judge.beecrowd.com/en/profile/1249238/) | **15** | ![Share](https://img.shields.io/badge/2.81%25-77DDBB?style=flat-square) | Jul 04, 2026 | ![Manual](https://img.shields.io/badge/MANUAL-E65100?style=flat) |
+| **TOTAL** | **8 Platforms** | **534** | **100%** | Oct 09, 2026 | **Mixed** |
 
 <!-- AUTO_GENERATED_SECTION_END: STATS_TABLE -->
 
+<p align="center">
+  <sub>
+    Share of Total = recorded solves on a platform divided by all recorded solves.
+    Tracking labels indicate the configured update method.
+  </sub>
+</p>
+
+---
+
 <!-- AUTO_GENERATED_SECTION_START: KEY_HIGHLIGHTS -->
+
+## 🏆 Highlights
+
 <div align="center">
 
-## 🏆 Key Highlights
+<p>
+  <sub>Milestones across my problem-solving journey</sub>
+</p>
 
-| 🥇 Top Platform | 🎯 Main Focus | 📚 Platforms Active |
-|:---------------:|:-------------:|:------------------:|
-| **Codeforces** | **Competitive Programming** | **08** |
-| 534 Problems | Algorithm Mastery | Multi-Platform |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.codechef.com/users/raihan_ahad">
+        <img src="https://img.shields.io/badge/CODECHEF-77DDBB?style=for-the-badge&labelColor=161B22" alt="CodeChef"/>
+      </a>
+      <br/><br/>
+      <strong>187 Problems</strong>
+      <br/>
+      <sub>Highest recorded solve count</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://codeforces.com/profile/RAIHAN_AHAD">
+        <img src="https://img.shields.io/badge/CODEFORCES-77DDBB?style=for-the-badge&labelColor=161B22" alt="Codeforces"/>
+      </a>
+      <br/><br/>
+      <strong>185 Problems</strong>
+      <br/>
+      <sub>Competitive programming practice</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/MULTI--PLATFORM-77DDBB?style=for-the-badge&labelColor=161B22" alt="Multi-platform Practice"/>
+      <br/><br/>
+      <strong>8 Platforms</strong>
+      <br/>
+      <sub>Learning across multiple judges</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### The Journey Continues
+
+**Learn. Solve. Analyze. Improve.**
+
+<sub>Every problem is an opportunity to strengthen logical thinking and algorithmic skills.</sub>
 
 </div>
+
 <!-- AUTO_GENERATED_SECTION_END: KEY_HIGHLIGHTS -->
 
-</div>
-
-<br>
-<br>
-
-<div align="center">
+---
 
 ## 🎯 Latest Solve
 
-</div>
-
 <!-- AUTO_GENERATED_SECTION_START: LATEST_SOLVE -->
+
 <div align="center">
 
-| 📅 Last Solved | 🏆 Platform |
-|:-------------:|:-------------:|
-| **09 October 2026** | **Codeforces** |
+<a href="https://codeforces.com/profile/RAIHAN_AHAD">
+  <img src="https://img.shields.io/badge/LATEST%20SOLVE-CODEFORCES-77DDBB?style=for-the-badge&labelColor=161B22" alt="Latest Solve on Codeforces"/>
+</a>
+
+
+
+<strong>October 09, 2026</strong>
+
+<br/>
+
+<a href="https://codeforces.com/profile/RAIHAN_AHAD">View Codeforces Profile ↗</a>
 
 </div>
-
----
 
 <!-- AUTO_GENERATED_SECTION_END: LATEST_SOLVE -->
 
 <!-- AUTO_GENERATED_SECTION_END: PLATFORM_LAST_SOLVED -->
+
+---
+
+<div align="center">
+
+### 💻 Learn. Solve. Improve. Repeat.
+
+<sub>Maintained as part of my competitive programming journey.</sub>
+
+<br/><br/>
+
+<a href="#top">Back to Top ↑</a>
+
+</div>
