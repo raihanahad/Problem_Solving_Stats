@@ -8,9 +8,9 @@
 <!-- AUTO_GENERATED_SECTION_END: BANNER -->
 
 <!-- DYNAMIC_BADGES_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-09%20October%202026-77DDBB?style=for-the-badge)
-![Total Problems](https://img.shields.io/badge/Total%20Solved-2423-77DDBB?style=for-the-badge)
-![Platforms](https://img.shields.io/badge/Platforms-11-77DDBB?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-October%2009%202026-77DDBB?style=for-the-badge)
+![Total Problems](https://img.shields.io/badge/Total%20Solved-534-77DDBB?style=for-the-badge)
+![Platforms](https://img.shields.io/badge/Platforms-08-77DDBB?style=for-the-badge)
 <!-- DYNAMIC_BADGES_END -->
 
 <!-- UPDATE_METADATA_START -->
@@ -28,7 +28,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=www.hackerrank.com&sz=16" width="16" height="16"/> **HackerRank** | [RAIHAN AHAD](https://www.hackerrank.com/profile/raihanahad) | **0** | ![Progress](https://img.shields.io/badge/Progress-0.5%25-FF88FF?style=flat-square) | 03 March, 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16"/> **LeetCode** | [RAIHAN_AHAD](https://leetcode.com/u/RAIHAN_AHAD/) | **1** | ![Progress](https://img.shields.io/badge/Progress-0.5%25-90C3DD?style=flat-square) | 09 October 2026 | ![Automatic](https://img.shields.io/badge/Automatic-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=www.spoj.com&sz=16" width="16" height="16"/> **beecrowd** | [raihanahad](https://judge.beecrowd.com/en/profile/1249238/) | **15** | ![Progress](https://img.shields.io/badge/Progress-0.1%25-77DDBB?style=flat-square) | July 04, 2026 | ![Manual](https://img.shields.io/badge/Manual-E65100?style=flat) |
-| 🎖️ **TOTAL** | | **2423** | **100%** | 09 October 2026 | |
+| 🎖️ **TOTAL** | | **534** | **100%** | October 09, 2026 | |
 
 ---
 
@@ -41,8 +41,8 @@
 
 | 🥇 Top Platform | 🎯 Main Focus | 📚 Platforms Active |
 |:---------------:|:-------------:|:------------------:|
-| **Codeforces** | **Competitive Programming** | **11** |
-| 1908 Problems | Algorithm Mastery | Multi-Platform |
+| **Codeforces** | **Competitive Programming** | **08** |
+| 534 Problems | Algorithm Mastery | Multi-Platform |
 
 </div>
 <!-- AUTO_GENERATED_SECTION_END: KEY_HIGHLIGHTS -->
