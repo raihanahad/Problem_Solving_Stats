@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_run_at": "2026-10-09T03:49:42+06:00",
+  "last_run_at": "2026-10-10T14:35:56+06:00",
   "latest_solve": {
     "platform": "Codeforces",
     "date": "October 09, 2026",
@@ -9,7 +9,7 @@
   "platforms": {
     "codeforces": {
       "count": 185,
-      "last_updated": "October 09, 2026",
+      "last_updated": "October 10, 2026",
       "tracking": "automatic"
     },
     "vjudge": {
@@ -19,12 +19,12 @@
     },
     "codechef": {
       "count": 187,
-      "last_updated": "September 07, 2026",
+      "last_updated": "October 10, 2026",
       "tracking": "automatic"
     },
     "atcoder": {
-      "count": 68,
-      "last_updated": "September 19, 2026",
+      "count": 28,
+      "last_updated": "October 10, 2026",
       "tracking": "automatic"
     },
     "cses": {
@@ -39,7 +39,7 @@
     },
     "leetcode": {
       "count": 1,
-      "last_updated": "October 09, 2026",
+      "last_updated": "October 10, 2026",
       "tracking": "automatic"
     },
     "beecrowd": {
