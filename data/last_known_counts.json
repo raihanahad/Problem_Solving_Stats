@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "last_run_at": "2026-10-09T03:49:42+06:00",
+  "latest_solve": {
+    "platform": "Codeforces",
+    "date": "October 09, 2026",
+    "timestamp": null
+  },
+  "platforms": {
+    "codeforces": {
+      "count": 185,
+      "last_updated": "October 09, 2026",
+      "tracking": "automatic"
+    },
+    "vjudge": {
+      "count": 68,
+      "last_updated": "September 29, 2026",
+      "tracking": "automatic"
+    },
+    "codechef": {
+      "count": 187,
+      "last_updated": "September 07, 2026",
+      "tracking": "automatic"
+    },
+    "atcoder": {
+      "count": 68,
+      "last_updated": "September 19, 2026",
+      "tracking": "automatic"
+    },
+    "cses": {
+      "count": 10,
+      "last_updated": "August 26, 2026",
+      "tracking": "manual"
+    },
+    "hackerrank": {
+      "count": 0,
+      "last_updated": "March 03, 2026",
+      "tracking": "manual"
+    },
+    "leetcode": {
+      "count": 1,
+      "last_updated": "October 09, 2026",
+      "tracking": "automatic"
+    },
+    "beecrowd": {
+      "count": 15,
+      "last_updated": "July 04, 2026",
+      "tracking": "automatic"
+    }
+  }
+}
