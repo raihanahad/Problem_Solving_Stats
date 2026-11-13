@@ -9,14 +9,14 @@
 <br/>
 
 <!-- DYNAMIC_BADGES_START -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2013,%202026-77DDBB?style=for-the-badge&labelColor=161B22)
-![Total Problems](https://img.shields.io/badge/Total%20Solved-498-77DDBB?style=for-the-badge&labelColor=161B22)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2014,%202026-77DDBB?style=for-the-badge&labelColor=161B22)
+![Total Problems](https://img.shields.io/badge/Total%20Solved-499-77DDBB?style=for-the-badge&labelColor=161B22)
 ![Platforms](https://img.shields.io/badge/Platforms-08-77DDBB?style=for-the-badge&labelColor=161B22)
 <!-- DYNAMIC_BADGES_END -->
 
 <!-- UPDATE_METADATA_START -->
 <p align="center">
-  <sub><strong>Last Synchronized:</strong> 13 November 2026 at 04:25:17 AM • Automatic</sub>
+  <sub><strong>Last Synchronized:</strong> 14 November 2026 at 04:06:25 AM • Automatic</sub>
 </p>
 <!-- UPDATE_METADATA_END -->
 
@@ -43,7 +43,7 @@
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/TOTAL%20SOLVED-77DDBB?style=for-the-badge&labelColor=161B22" alt="Total Solved"/>
       <br/><br/>
-      <strong>498</strong>
+      <strong>499</strong>
       <br/>
       <sub>Recorded Solves</sub>
     </td>
@@ -59,7 +59,7 @@
       <br/><br/>
       <strong>Codeforces</strong>
       <br/>
-      <sub>189 Recorded Solves</sub>
+      <sub>190 Recorded Solves</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/PRIMARY%20FOCUS-77DDBB?style=for-the-badge&labelColor=161B22" alt="Primary Focus"/>
@@ -81,15 +81,15 @@
 
 | Platform | Profile | Solved | Share of Total | Last Updated | Tracking |
 |:---|:---:|---:|---:|:---:|:---:|
-| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16" alt=""/> **Codeforces** | [RAIHAN_AHAD ↗](https://codeforces.com/profile/RAIHAN_AHAD) | **189** | ![Share](https://img.shields.io/badge/37.95%25-AA0000?style=flat-square) | Nov 13, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16" alt=""/> **VJudge** | [RAIHAN_AHAD ↗](https://vjudge.net/user/RAIHAN_AHAD) | **68** | ![Share](https://img.shields.io/badge/13.65%25-FF3333?style=flat-square) | Nov 13, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=codechef.com&sz=16" width="16" height="16" alt=""/> **CodeChef** | [raihan_ahad ↗](https://www.codechef.com/users/raihan_ahad) | **187** | ![Share](https://img.shields.io/badge/37.55%25-FF7777?style=flat-square) | Nov 13, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=16" width="16" height="16" alt=""/> **AtCoder** | [RAIHAN_AHAD ↗](https://atcoder.jp/users/RAIHAN_AHAD) | **28** | ![Share](https://img.shields.io/badge/5.62%25-FFBB55?style=flat-square) | Nov 13, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=cses.fi&sz=16" width="16" height="16" alt=""/> **CSES** | [RAIHAN AHAD ↗](https://cses.fi/user/458666) | **10** | ![Share](https://img.shields.io/badge/2.01%25-FFCC88?style=flat-square) | Aug 26, 2026 | ![Manual](https://img.shields.io/badge/MANUAL-E65100?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=16" width="16" height="16" alt=""/> **Codeforces** | [RAIHAN_AHAD ↗](https://codeforces.com/profile/RAIHAN_AHAD) | **190** | ![Share](https://img.shields.io/badge/38.08%25-AA0000?style=flat-square) | Nov 14, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=16" width="16" height="16" alt=""/> **VJudge** | [RAIHAN_AHAD ↗](https://vjudge.net/user/RAIHAN_AHAD) | **68** | ![Share](https://img.shields.io/badge/13.63%25-FF3333?style=flat-square) | Nov 14, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=codechef.com&sz=16" width="16" height="16" alt=""/> **CodeChef** | [raihan_ahad ↗](https://www.codechef.com/users/raihan_ahad) | **187** | ![Share](https://img.shields.io/badge/37.47%25-FF7777?style=flat-square) | Nov 14, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=16" width="16" height="16" alt=""/> **AtCoder** | [RAIHAN_AHAD ↗](https://atcoder.jp/users/RAIHAN_AHAD) | **28** | ![Share](https://img.shields.io/badge/5.61%25-FFBB55?style=flat-square) | Nov 14, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=cses.fi&sz=16" width="16" height="16" alt=""/> **CSES** | [RAIHAN AHAD ↗](https://cses.fi/user/458666) | **10** | ![Share](https://img.shields.io/badge/2.00%25-FFCC88?style=flat-square) | Aug 26, 2026 | ![Manual](https://img.shields.io/badge/MANUAL-E65100?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=hackerrank.com&sz=16" width="16" height="16" alt=""/> **HackerRank** | [raihanahad ↗](https://www.hackerrank.com/profile/raihanahad) | **0** | ![Share](https://img.shields.io/badge/0.00%25-555555?style=flat-square) | Mar 03, 2026 | ![Manual](https://img.shields.io/badge/MANUAL-E65100?style=flat) |
-| <img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16" alt=""/> **LeetCode** | [RAIHAN_AHAD ↗](https://leetcode.com/u/RAIHAN_AHAD/) | **1** | ![Share](https://img.shields.io/badge/0.20%25-90C3DD?style=flat-square) | Nov 13, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
+| <img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=16" width="16" height="16" alt=""/> **LeetCode** | [RAIHAN_AHAD ↗](https://leetcode.com/u/RAIHAN_AHAD/) | **1** | ![Share](https://img.shields.io/badge/0.20%25-90C3DD?style=flat-square) | Nov 14, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
 | <img src="https://www.google.com/s2/favicons?domain=judge.beecrowd.com&sz=16" width="16" height="16" alt=""/> **beecrowd** | [raihanahad ↗](https://judge.beecrowd.com/en/profile/1249238/) | **15** | ![Share](https://img.shields.io/badge/3.01%25-77DDBB?style=flat-square) | Jul 04, 2026 | ![Automatic](https://img.shields.io/badge/AUTO-2E7D32?style=flat) |
-| **TOTAL** | **8 Platforms** | **498** | **100%** | Nov 13, 2026 | **Mixed** |
+| **TOTAL** | **8 Platforms** | **499** | **100%** | Nov 14, 2026 | **Mixed** |
 
 <!-- AUTO_GENERATED_SECTION_END: STATS_TABLE -->
 
@@ -119,7 +119,7 @@
         <img src="https://img.shields.io/badge/CODEFORCES-77DDBB?style=for-the-badge&labelColor=161B22" alt="Codeforces"/>
       </a>
       <br/><br/>
-      <strong>189 Problems</strong>
+      <strong>190 Problems</strong>
       <br/>
       <sub>Highest recorded solve count</sub>
     </td>
@@ -128,7 +128,7 @@
         <img src="https://img.shields.io/badge/CODEFORCES-77DDBB?style=for-the-badge&labelColor=161B22" alt="Codeforces"/>
       </a>
       <br/><br/>
-      <strong>189 Problems</strong>
+      <strong>190 Problems</strong>
       <br/>
       <sub>Competitive programming practice</sub>
     </td>
@@ -168,7 +168,7 @@
 
 
 
-<strong>November 12, 2026</strong>
+<strong>November 13, 2026</strong>
 
 <br/>
 
